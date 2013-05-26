@@ -330,6 +330,10 @@ msgstr ""
 msgid "Tweet this Post"
 msgstr ""
 
+#. post.php:10
+msgid "Read On&hellip;"
+msgstr ""
+
 #. Theme Name of the plugin/theme
 msgid "Frank"
 msgstr ""

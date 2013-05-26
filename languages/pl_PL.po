@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2013-04-09 21:08+0100\n"
+"PO-Revision-Date: 2013-05-26 23:24+0100\n"
 "Last-Translator: Chris Bujok <chris.bujok@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "X-Generator: Poedit 1.5.5\n"
@@ -324,7 +324,7 @@ msgstr "Nowsze wpisy"
 #: partials/sidebars/sidebar-index.php:9
 #: partials/sidebars/sidebar-single.php:9 sidebar.php:9
 msgid "About This Site"
-msgstr "O strone"
+msgstr "O stronie"
 
 #: partials/sidebars/sidebar-archive.php:13
 #: partials/sidebars/sidebar-index.php:13
@@ -354,6 +354,10 @@ msgstr "Wpisz swoje zapytanie, nacisnij enter"
 #: single.php:28
 msgid "Tweet this Post"
 msgstr "Tweetnij ten post"
+
+#. post.php:10
+msgid "Read On&hellip;"
+msgstr "Czytaj dalej&hellip;"
 
 #. Theme Name of the plugin/theme
 msgid "Frank"
